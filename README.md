@@ -65,5 +65,4 @@ Validation need to be done for IP address.
 ## Author
 
 - Website - [Jithin Aji](https://jithinaji.github.io/portfolioversion2/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@AjiJithin](https://twitter.com/AjiJithin)
